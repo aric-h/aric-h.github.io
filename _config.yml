@@ -1,1 +1,4 @@
+plugins:
+  - jekyll-remote-theme
+  
 REMOTE_THEME: chirpy
