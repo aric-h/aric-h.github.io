@@ -1,5 +1,6 @@
 plugins:
   - jekyll-remote-theme
 
-remote_theme: cotes2020/jekyll-theme-chirpy@latest
+# remote_theme: cotes2020/jekyll-theme-chirpy@latest
+remote_theme: artemsheludko/flexible-jekyll@latest
 title: devops.express 
