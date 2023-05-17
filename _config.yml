@@ -9,5 +9,11 @@ author: Aric H.
 email: aric.p.hansen@gmail.com
 gihub_username: aric-h
 url: http://devops.express
+linkedin_username: arichansen
 description: Bite-size musings from my DevOps endeavors
 timezone: America/Denver
+
+# Includes an icon in the footer for each user name you enter
+footer-links:
+  github: aric-h
+  linkedin: arichansen
