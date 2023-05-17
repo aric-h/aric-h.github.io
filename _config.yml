@@ -1,6 +1,8 @@
 plugins:
   - jekyll-remote-theme
 
-# remote_theme: cotes2020/jekyll-theme-chirpy@latest
-remote_theme: artemsheludko/flexible-jekyll@latest
+remote_theme: cotes2020/jekyll-theme-chirpy
+# remote_theme: artemsheludko/flexible-jekyll@latest
 title: devops.express 
+author: Aric H.
+description: Bite-size musings from my DevOps endeavours
