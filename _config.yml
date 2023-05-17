@@ -6,4 +6,8 @@ theme: minima
 # remote_theme: artemsheludko/flexible-jekyll@latest
 title: devops.express 
 author: Aric H.
-description: Bite-size musings from my DevOps endeavours
+email: aric.p.hansen@gmail.com
+gihub_username: aric-h
+url: http://devops.express
+description: Bite-size musings from my DevOps endeavors
+timezone: America/Denver
