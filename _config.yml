@@ -1,5 +1,5 @@
 plugins:
   - jekyll-remote-theme
 
-remote_theme: chirpy
-title: devops.express
+remote_theme: pages-themes/minimal@v0.2.0
+title: devops.express 
